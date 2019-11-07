@@ -2,5 +2,6 @@
 
 echo "test-local";
 
+echo "pkp";
 
 ?>
